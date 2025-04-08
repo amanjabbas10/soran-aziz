@@ -1,6 +1,6 @@
 {
   "name": "soran-aziz",
-  "homepage": "https://amanjabbas10.github.io/soran/",
+  "homepage": "https://amanjabbas10.github.io/soran-it/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,7 +9,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predploy":"npm run build",
+    "predeploy":"npm run build",
     "deploy":"gh-pages -d dist"
   },
   "dependencies": {
